@@ -22,21 +22,21 @@ O **Guia Pocket - Vale do Sol** é um aplicativo móvel desenvolvido para divulg
 
 ## 📸 Capturas de Tela
 
-### Modo Claro - Português
+### Modo Claro - Português/Inglês
 <p align="center">
-  <img src="C:\Users\mcost\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-11-03 234046.png" width="30%" alt="Tela Principal - Modo Claro Português"/>
-  <img src=""C:\Users\mcost\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-11-03 234034.png"" width="30%" alt="Tela Detalhes - Modo Claro Português"/>
+  <img src="screenshots/Captura de tela 2025-11-03 234034.png" width="30%" alt="Tela Principal - Modo Claro Português"/>
+  <img src="screenshots/Captura de tela 2025-11-03 234046.png" width="30%" alt="Tela Detalhes - Modo Claro Português"/>
 </p>
 
 ### Modo Escuro - Inglês
 <p align="center">
-  <img src="C:\Users\mcost\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-11-03 234329.png" width="30%" alt="Tela Principal - Modo Escuro Inglês"/>
-  <img src="C:\Users\mcost\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-11-03 234319.png" width="30%" alt="Tela Detalhes - Modo Escuro Inglês"/>
+  <img src="screenshots/Captura de tela 2025-11-03 234319.png" width="30%" alt="Tela Principal - Modo Escuro Inglês"/>
+  <img src="screenshots/Captura de tela 2025-11-03 234329.png" width="30%" alt="Tela Detalhes - Modo Escuro Inglês"/>
 </p>
 
 ## 🎥 Vídeo Demonstrativo
 
-[**📹 ASSISTIR VÍDEO DEMONSTRATIVO**](https://drive.google.com/file/d/SEU_LINK_DO_DRIVE_AQUI/view?usp=sharing)
+[**📹 ASSISTIR VÍDEO DEMONSTRATIVO**](https://drive.google.com/drive/folders/0AFgLsesbz9vSUk9PVA/view?usp=sharing)
 
 *Vídeo de 30 segundos mostrando todas as funcionalidades do aplicativo:*
 - Navegação entre telas
