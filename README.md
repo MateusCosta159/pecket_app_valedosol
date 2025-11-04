@@ -24,14 +24,14 @@ O **Guia Pocket - Vale do Sol** é um aplicativo móvel desenvolvido para divulg
 
 ### Modo Claro - Português
 <p align="center">
-  <img src="screenshots/main_light_pt.jpg" width="30%" alt="Tela Principal - Modo Claro Português"/>
-  <img src="screenshots/detail_light_pt.jpg" width="30%" alt="Tela Detalhes - Modo Claro Português"/>
+  <img src="C:\Users\mcost\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-11-03 234046.png" width="30%" alt="Tela Principal - Modo Claro Português"/>
+  <img src=""C:\Users\mcost\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-11-03 234034.png"" width="30%" alt="Tela Detalhes - Modo Claro Português"/>
 </p>
 
 ### Modo Escuro - Inglês
 <p align="center">
-  <img src="screenshots/main_dark_en.jpg" width="30%" alt="Tela Principal - Modo Escuro Inglês"/>
-  <img src="screenshots/detail_dark_en.jpg" width="30%" alt="Tela Detalhes - Modo Escuro Inglês"/>
+  <img src="C:\Users\mcost\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-11-03 234329.png" width="30%" alt="Tela Principal - Modo Escuro Inglês"/>
+  <img src="C:\Users\mcost\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-11-03 234319.png" width="30%" alt="Tela Detalhes - Modo Escuro Inglês"/>
 </p>
 
 ## 🎥 Vídeo Demonstrativo
