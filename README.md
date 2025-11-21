@@ -38,6 +38,10 @@ O **Guia Pocket - Vale do Sol** é um aplicativo móvel desenvolvido para divulg
 
 [**📹 ASSISTIR VÍDEO DEMONSTRATIVO**]
 
+https://github.com/user-attachments/assets/b3b9119f-fc9c-4d32-a63a-d23fd8b9b6ef
+
+
+
 *Vídeo de 30 segundos mostrando todas as funcionalidades do aplicativo:*
 - Navegação entre telas
 - Funcionalidades dos botões (ligar, site, maps, compartilhar)
